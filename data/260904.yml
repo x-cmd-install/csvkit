@@ -7,7 +7,7 @@ about:
   head: ba8033d
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:55:07Z
+  collectedAt: 2026-09-04T20:45:32Z
 timeline:
   created: 2011-04-01
   lastCommit: 2026-08-03
@@ -81,6 +81,69 @@ total:
   openIssue: 34
   commit: 2083
 ---
+path: /home/runner/.x-repo/github.com/wireservice/csvkit
+collectedAt: 2026-09-04T20:45:33Z
+loc:
+  Python:
+    code: 5195
+    comments: 159
+    blanks: 1267
+    files: 47
+  ReStructuredText:
+    code: 2538
+    comments: 0
+    blanks: 953
+    files: 31
+  Perl:
+    code: 1000
+    comments: 0
+    blanks: 0
+    files: 1
+  Json:
+    code: 125
+    comments: 0
+    blanks: 1
+    files: 4
+  Makefile:
+    code: 105
+    comments: 4
+    blanks: 21
+    files: 1
+  Toml:
+    code: 87
+    comments: 0
+    blanks: 6
+    files: 1
+  Autoconf:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  Sql:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 3
+  ForgeConfig:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Text:
+    code: 0
+    comments: 1675
+    blanks: 25
+    files: 5
+total:
+  code: 9072
+  comments: 1838
+  blanks: 2275
+  files: 96
 ---
 date: "2026-08-24"
 repo:
