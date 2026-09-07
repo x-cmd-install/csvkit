@@ -5,7 +5,7 @@ about:
   head: ba8033d
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:32:12Z
+  collectedAt: 2026-09-07T19:57:56Z
 timeline:
   created: 2011-04-01
   lastCommit: 2026-08-03
@@ -80,7 +80,7 @@ total:
   commit: 2083
 ---
 path: /home/runner/.x-repo/github.com/wireservice/csvkit
-collectedAt: 2026-09-07T04:32:14Z
+collectedAt: 2026-09-07T19:57:59Z
 loc:
   Python:
     code: 5195
@@ -252,7 +252,7 @@ checks:
       - 'Warn: 0 commits out of 18 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:32:15+00:00
+  collectedAt: 2026-09-07T19:58:01+00:00
   platform:
     darwin/arm64:
       name:  null
