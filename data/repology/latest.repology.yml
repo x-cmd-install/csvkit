@@ -1,0 +1,983 @@
+- repo: parrot
+  subrepo: parrot/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: alt_p11
+  srcname: csvkit
+  binnames:
+    - csvkit
+  visiblename: csvkit
+  version: 1.1.1
+  origversion: 1.1.1-alt1
+  status: outdated
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats
+  maintainers:
+    - obirvalger@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Other
+- repo: altsisyphus
+  srcname: csvkit
+  binnames:
+    - csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-alt1
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats
+  maintainers:
+    - obirvalger@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Other
+- repo: arch
+  subrepo: extra
+  srcname: csvkit
+  binname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+- repo: aur
+  srcname: csvkit-git
+  binname: csvkit-git
+  visiblename: csvkit-git
+  version: 1.4.0.r13.g59fbd6d
+  origversion: 1.4.0.r13.g59fbd6d-1
+  status: rolling
+  summary: A suite of utilities for converting to and working with CSV
+  maintainers:
+    - severach@aur
+    - alerque@aur
+  licenses:
+    - MIT
+- repo: chromebrew
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_2
+  srcname: textproc/csvkit
+  binname: csvkit
+  visiblename: textproc/csvkit
+  version: 0.9.0
+  origversion: 0.9.0nb8
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  maintainers:
+    - cheusov@netbsd.org
+  categories:
+    - textproc
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.5
+  origversion: 1.0.5-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.7
+  origversion: 1.0.7-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - tmancill@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - tmancill@debian.org
+  categories:
+    - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.2
+  origversion: 1.0.2-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+- repo: deepin_25
+  subrepo: community
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.5
+  origversion: 1.0.5-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - tmancill@debian.org
+  categories:
+    - misc
+- repo: fedora_39
+  subrepo: release
+  srcname: python-csvkit
+  binnames:
+    - python3-csvkit
+    - python-csvkit-doc
+  visiblename: python-csvkit
+  version: 1.1.1
+  origversion: 1.1.1-3.fc39
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: python-csvkit
+  binnames:
+    - python3-csvkit
+    - python-csvkit-doc
+  visiblename: python-csvkit
+  version: 1.1.1
+  origversion: 1.1.1-5.fc40
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: python-csvkit
+  binnames:
+    - python3-csvkit
+    - python-csvkit-doc
+  visiblename: python-csvkit
+  version: 2.0.0
+  origversion: 2.0.0-2.fc41
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: python-csvkit
+  binnames:
+    - python3-csvkit
+    - python-csvkit-doc
+  visiblename: python-csvkit
+  version: 2.0.1
+  origversion: 2.0.1-2.fc42
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: python-csvkit
+  binnames:
+    - python3-csvkit
+    - python-csvkit-doc
+  visiblename: python-csvkit
+  version: 2.1.0
+  origversion: 2.1.0-1.fc43
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: freebsd
+  srcname: textproc/py-csvkit
+  binname: py312-csvkit
+  visiblename: textproc/py-csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Command line tools for working with CSV
+  maintainers:
+    - matthew@freebsd.org
+  categories:
+    - textproc
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: python-csvkit
+  binnames:
+    - python314-csvkit
+    - python313-csvkit
+  visiblename: python-csvkit
+  version: 2.2.0
+  origversion: 2.2.0-1.2
+  status: newest
+  summary: A library of utilities for working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: gentoo
+  srcname: dev-python/csvkit
+  visiblename: dev-python/csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV
+  maintainers:
+    - zmedico@gentoo.org
+    - python@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-python
+- repo: gnuguix
+  srcname: csvkit
+  binname: csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: null
+  status: outdated
+  summary: Command-line tools for working with CSV
+- repo: homebrew
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Suite of command-line tools for converting to and working with CSV
+- repo: kali_rolling
+  subrepo: main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - tmancill@debian.org
+  categories:
+    - misc
+- repo: liguros_stable
+  srcname: dev-python/csvkit
+  visiblename: dev-python/csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: A suite of utilities for converting to and working with CSV
+  maintainers:
+    - zmedico@gentoo.org
+    - python@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-python
+- repo: pkgsrc_current
+  srcname: textproc/csvkit
+  binname: csvkit
+  visiblename: textproc/csvkit
+  version: 0.9.0
+  origversion: 0.9.0nb8
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  maintainers:
+    - cheusov@netbsd.org
+  categories:
+    - textproc
+- repo: liguros_develop
+  srcname: dev-python/csvkit
+  visiblename: dev-python/csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV
+  maintainers:
+    - zmedico@gentoo.org
+    - python@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-python
+- repo: macports
+  srcname: python/py-csvkit
+  binname: py-csvkit
+  visiblename: py-csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats
+  maintainers:
+    - esafak@github
+  licenses:
+    - MIT
+  categories:
+    - python
+- repo: macports
+  srcname: python/py-csvkit
+  binname: py311-csvkit
+  visiblename: py311-csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats
+  maintainers:
+    - esafak@github
+  licenses:
+    - MIT
+  categories:
+    - python
+- repo: macports
+  srcname: python/py-csvkit
+  binname: py310-csvkit
+  visiblename: py310-csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats
+  maintainers:
+    - esafak@github
+  licenses:
+    - MIT
+  categories:
+    - python
+- repo: macports
+  srcname: python/py-csvkit
+  binname: py312-csvkit
+  visiblename: py312-csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats
+  maintainers:
+    - esafak@github
+  licenses:
+    - MIT
+  categories:
+    - python
+- repo: parabola
+  subrepo: extra
+  srcname: csvkit
+  binname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+- repo: macports
+  srcname: python/py-csvkit
+  binname: py313-csvkit
+  visiblename: py313-csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: A suite of utilities for converting to and working with CSV, the king of tabular file formats
+  maintainers:
+    - esafak@github
+  licenses:
+    - MIT
+  categories:
+    - python
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: csvkit
+  binname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: csvkit
+  binname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: csvkit
+  binname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  summary: A suite of utilities for converting to and working with CSV
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.0.0
+  origversion: null
+  status: outdated
+  summary: A suite of command-line tools for converting to and working with CSV
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: null
+  status: outdated
+  summary: Suite of command-line tools for converting to and working with CSV
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: Suite of command-line tools for converting to and working with CSV
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: Suite of command-line tools for converting to and working with CSV
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Suite of command-line tools for converting to and working with CSV
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Suite of command-line tools for converting to and working with CSV
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: python-csvkit
+  visiblename: python-csvkit
+  version: 1.0.5
+  origversion: 1.0.5-bp155.2.9
+  status: outdated
+  summary: A library of utilities for working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Development/Languages/Python
+- repo: opensuse_leap_15_5
+  subrepo: updates/backports
+  srcname: python-csvkit
+  visiblename: python-csvkit
+  version: 1.0.5
+  origversion: 1.0.5-bp155.3.3.1
+  status: outdated
+  summary: A library of utilities for working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Development/Languages/Python
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: python-csvkit
+  visiblename: python-csvkit
+  version: 1.0.5
+  origversion: 1.0.5-bp156.3.1
+  status: outdated
+  summary: A library of utilities for working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Development/Languages/Python
+- repo: opensuse_leap_15_6
+  subrepo: updates/backports
+  srcname: python-csvkit
+  visiblename: python-csvkit
+  version: 1.0.5
+  origversion: 1.0.5-bp156.4.3.1
+  status: outdated
+  summary: A library of utilities for working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Development/Languages/Python
+- repo: pardus_21
+  subrepo: main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.5
+  origversion: 1.0.5-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: pkgsrc_2026_1
+  srcname: textproc/csvkit
+  binname: csvkit
+  visiblename: textproc/csvkit
+  version: 0.9.0
+  origversion: 0.9.0nb8
+  status: outdated
+  summary: Suite of utilities for converting to and working with CSV
+  maintainers:
+    - cheusov@netbsd.org
+  categories:
+    - textproc
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.2
+  origversion: 1.0.2-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - utils
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.5
+  origversion: 1.0.5-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - utils
+- repo: pypi
+  srcname: csvkit
+  binname: csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: A suite of command-line tools for working with CSV, the king of tabular file formats.
+  maintainers:
+    - chrisgroskopf@gmail.com
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.7
+  origversion: 1.0.7-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - tmancill@debian.org
+  categories:
+    - misc
+- repo: spack
+  srcname: py-csvkit
+  visiblename: py-csvkit
+  version: 1.1.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - MIT
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.2
+  origversion: 1.0.2-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.6
+  origversion: 1.0.6-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: csvkit
+  binnames:
+    - python-csvkit
+    - python3-csvkit
+  visiblename: csvkit
+  version: 0.9.1
+  origversion: 0.9.1-2
+  status: outdated
+  maintainers:
+    - morph@debian.org
+    - python-modules-team@lists.alioth.debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.2
+  origversion: 1.0.2-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.2
+  origversion: 1.0.2-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.0.6
+  origversion: 1.0.6-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 1.4.0
+  origversion: 1.4.0-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.0.1
+  origversion: 2.0.1-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - ghisvail@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - tmancill@debian.org
+  categories:
+    - universe/misc
