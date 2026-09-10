@@ -4,7 +4,7 @@
 
 A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 
-![csvkit](https://repo.x-cmd.io/csvkit.svg)
+![csvkit](https://repo.x-cmd.io/csvkit.svg?lang=zh)
 
 ## 安装
 
@@ -65,4 +65,4 @@ csvkit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:42:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:59Z._
