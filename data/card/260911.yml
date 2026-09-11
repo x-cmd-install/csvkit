@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:42:03Z
+  collectedAt: 2026-09-11T20:27:30Z
 timeline:
   created: 2011-04-01
   lastCommit: 2026-08-03
@@ -84,7 +84,7 @@ total:
   commit: 2083
 ---
 path: /home/runner/.x-repo/github.com/wireservice/csvkit
-collectedAt: 2026-09-11T04:42:04Z
+collectedAt: 2026-09-11T20:27:32Z
 loc:
   Python:
     code: 5195
