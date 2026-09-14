@@ -52,28 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 0 | 4 | 7 | 0 | 0 | 4 |
-| 90d | 2026-06-14 | 0 | 7 | 7 | 0 | 1 | 13 |
-| last180d | 2026-03-16 | 0 | 11 | 7 | 0 | 1 | 17 |
-| 360d | 2025-09-17 | 0 | 23 | 7 | 5 | 2 | 38 |
-| last720d | 2024-09-22 | 0 | 29 | 7 | 25 | 7 | 73 |
-
-## Distribution status
-
-Reported by **71** distros on [repology.org](https://repology.org/project/csvkit). **22** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.2.0` | ✅ latest |
-| Debian 14 | `2.2.0` | ✅ latest |
-| Debian 13 | `2.0.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.2.0` | ✅ latest |
-| Ubuntu 24.04 LTS | `1.4.0` | ⚠️ outdated |
-| Arch | `2.2.0` | ✅ latest |
-| Homebrew | `2.2.0` | ✅ latest |
-| Nix unstable | `2.2.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.2.0` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 4 | 6 | 0 | 0 | 3 |
+| 90d | 2026-06-16 | 0 | 7 | 7 | 0 | 1 | 12 |
+| last180d | 2026-03-18 | 0 | 10 | 7 | 0 | 1 | 16 |
+| 360d | 2025-09-19 | 0 | 23 | 7 | 5 | 2 | 38 |
+| last720d | 2024-09-24 | 0 | 29 | 7 | 25 | 7 | 73 |
 
 ## Improve this data
 
@@ -84,4 +68,4 @@ Install metadata for csvkit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:33:13Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:54:14Z._
