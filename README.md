@@ -4,7 +4,7 @@
 
 A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 
-![csvkit](https://repo.x-cmd.io/csvkit.svg)
+[![x-cmd/install — csvkit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/csvkit.svg)](https://x-cmd.com/install/csvkit)
 
 ## Install
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 4 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 4 | 8 | 0 | 0 | 4 |
-| 90d | 2026-06-20 | 0 | 7 | 10 | 0 | 1 | 13 |
-| last180d | 2026-03-22 | 0 | 11 | 10 | 0 | 1 | 17 |
-| 360d | 2025-09-23 | 0 | 24 | 10 | 4 | 2 | 39 |
-| last720d | 2024-09-28 | 0 | 30 | 10 | 25 | 7 | 74 |
+| 30d | 2026-08-21 | 0 | 1 | 4 | 0 | 0 | 1 |
+| last60d | 2026-07-22 | 0 | 4 | 8 | 0 | 0 | 4 |
+| 90d | 2026-06-22 | 0 | 7 | 10 | 0 | 1 | 13 |
+| last180d | 2026-03-24 | 0 | 11 | 10 | 0 | 1 | 17 |
+| 360d | 2025-09-25 | 0 | 24 | 10 | 4 | 2 | 39 |
+| last720d | 2024-09-30 | 0 | 30 | 10 | 24 | 7 | 74 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for csvkit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:50:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:53:26Z._
