@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 274 · **Open PRs**: 10 · **Closed issues**: 914 · **Open issues**: 34 · **Commits**: 2084
+- **Releases**: 0 · **Merged PRs**: 275 · **Open PRs**: 10 · **Closed issues**: 914 · **Open issues**: 34 · **Commits**: 2085
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 1 | 4 | 0 | 0 | 1 |
-| last60d | 2026-07-23 | 0 | 3 | 8 | 0 | 0 | 3 |
-| 90d | 2026-06-23 | 0 | 7 | 10 | 0 | 1 | 13 |
-| last180d | 2026-03-25 | 0 | 11 | 10 | 0 | 1 | 16 |
-| 360d | 2025-09-26 | 0 | 24 | 10 | 4 | 2 | 39 |
-| last720d | 2024-10-01 | 0 | 30 | 10 | 24 | 7 | 74 |
+| 30d | 2026-08-23 | 0 | 2 | 4 | 0 | 0 | 2 |
+| last60d | 2026-07-24 | 0 | 4 | 8 | 0 | 0 | 4 |
+| 90d | 2026-06-24 | 0 | 8 | 10 | 0 | 1 | 14 |
+| last180d | 2026-03-26 | 0 | 11 | 10 | 0 | 1 | 17 |
+| 360d | 2025-09-27 | 0 | 25 | 10 | 4 | 2 | 40 |
+| last720d | 2024-10-02 | 0 | 31 | 10 | 24 | 7 | 75 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for csvkit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:05:51Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:57:36Z._
