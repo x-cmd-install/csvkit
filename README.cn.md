@@ -26,11 +26,11 @@ x install csvkit
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/14 approved changesets -- score normalized to 1
+- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,22 +42,22 @@ x install csvkit
 
 ## 流行度
 
-- **Star**: 6,414 · **Fork**: 691 · **开放 issue**: 948 · **贡献者**: 104
+- **Star**: 6,414 · **Fork**: 692 · **开放 issue**: 948 · **贡献者**: 104
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 276 · **开放 PR**: 10 · **已关闭 issue**: 914 · **开放 issue**: 34 · **提交数**: 2085
+- **发布数**: 0 · **已合并 PR**: 276 · **开放 PR**: 12 · **已关闭 issue**: 914 · **开放 issue**: 34 · **提交数**: 2085
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 2 | 4 | 0 | 0 | 2 |
-| last60d | 2026-08-01 | 0 | 3 | 8 | 0 | 0 | 2 |
-| 90d | 2026-07-02 | 0 | 8 | 10 | 0 | 1 | 6 |
-| last180d | 2026-04-03 | 0 | 12 | 10 | 0 | 1 | 19 |
-| 360d | 2025-10-05 | 0 | 26 | 10 | 4 | 2 | 42 |
-| last720d | 2024-10-10 | 0 | 32 | 10 | 23 | 7 | 75 |
+| 30d | 2026-09-01 | 0 | 2 | 6 | 0 | 0 | 2 |
+| last60d | 2026-08-02 | 0 | 3 | 10 | 0 | 0 | 2 |
+| 90d | 2026-07-03 | 0 | 8 | 12 | 0 | 0 | 6 |
+| last180d | 2026-04-04 | 0 | 12 | 12 | 0 | 1 | 19 |
+| 360d | 2025-10-06 | 0 | 26 | 12 | 4 | 2 | 42 |
+| last720d | 2024-10-11 | 0 | 32 | 12 | 23 | 7 | 75 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ csvkit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:37:29Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:57:34Z._
