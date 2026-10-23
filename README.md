@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,415 · **Forks**: 697 · **Open issues**: 948 · **Contributors**: 104
+- **Stars**: 6,416 · **Forks**: 697 · **Open issues**: 948 · **Contributors**: 104
 
 ## Totals (cumulative)
 
@@ -52,12 +52,28 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 2 | 9 | 0 | 0 | 2 |
-| 90d | 2026-07-24 | 0 | 4 | 13 | 0 | 0 | 4 |
-| last180d | 2026-04-25 | 0 | 12 | 15 | 0 | 1 | 19 |
-| 360d | 2025-10-27 | 0 | 24 | 15 | 4 | 2 | 40 |
-| last720d | 2024-11-01 | 0 | 32 | 15 | 21 | 7 | 75 |
+| 30d | 2026-09-23 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 2 | 9 | 0 | 0 | 2 |
+| 90d | 2026-07-25 | 0 | 4 | 13 | 0 | 0 | 4 |
+| last180d | 2026-04-26 | 0 | 12 | 15 | 0 | 1 | 19 |
+| 360d | 2025-10-28 | 0 | 24 | 15 | 4 | 2 | 40 |
+| last720d | 2024-11-02 | 0 | 32 | 15 | 21 | 7 | 75 |
+
+## Distribution status
+
+Reported by **69** distros on [repology.org](https://repology.org/project/csvkit). **22** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.2.0` | ✅ latest |
+| Debian 14 | `2.2.0` | ✅ latest |
+| Debian 13 | `2.0.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.2.0` | ✅ latest |
+| Ubuntu 24.04 LTS | `1.4.0` | ⚠️ outdated |
+| Arch | `2.2.0` | ✅ latest |
+| Homebrew | `2.2.0` | ✅ latest |
+| Nix unstable | `2.2.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.2.0` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +84,4 @@ Install metadata for csvkit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:02Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:50:37Z._
