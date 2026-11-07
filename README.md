@@ -42,22 +42,38 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,420 · **Forks**: 704 · **Open issues**: 949 · **Contributors**: 104
+- **Stars**: 6,420 · **Forks**: 706 · **Open issues**: 949 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 277 · **Open PRs**: 19 · **Closed issues**: 914 · **Open issues**: 35 · **Commits**: 2086
+- **Releases**: 0 · **Merged PRs**: 277 · **Open PRs**: 20 · **Closed issues**: 914 · **Open issues**: 35 · **Commits**: 2086
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 1 | 6 | 0 | 1 | 1 |
-| last60d | 2026-09-07 | 0 | 3 | 13 | 0 | 1 | 3 |
-| 90d | 2026-08-08 | 0 | 3 | 17 | 0 | 1 | 3 |
-| last180d | 2026-05-10 | 0 | 13 | 19 | 0 | 2 | 20 |
-| 360d | 2025-11-11 | 0 | 25 | 19 | 3 | 2 | 41 |
-| last720d | 2024-11-16 | 0 | 33 | 19 | 20 | 8 | 76 |
+| 30d | 2026-10-08 | 0 | 1 | 7 | 0 | 1 | 1 |
+| last60d | 2026-09-08 | 0 | 3 | 13 | 0 | 1 | 3 |
+| 90d | 2026-08-09 | 0 | 3 | 18 | 0 | 1 | 3 |
+| last180d | 2026-05-11 | 0 | 13 | 20 | 0 | 2 | 20 |
+| 360d | 2025-11-12 | 0 | 25 | 20 | 3 | 2 | 41 |
+| last720d | 2024-11-17 | 0 | 33 | 20 | 20 | 8 | 76 |
+
+## Distribution status
+
+Reported by **70** distros on [repology.org](https://repology.org/project/csvkit). **23** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.2.0` | ✅ latest |
+| Debian 14 | `2.2.0` | ✅ latest |
+| Debian 13 | `2.0.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.2.0` | ✅ latest |
+| Ubuntu 24.04 LTS | `1.4.0` | ⚠️ outdated |
+| Arch | `2.2.0` | ✅ latest |
+| Homebrew | `2.2.0` | ✅ latest |
+| Nix unstable | `2.2.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.2.0` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +84,4 @@ Install metadata for csvkit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:37:11Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:55:50Z._
