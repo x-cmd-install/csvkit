@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,420 · **Forks**: 711 · **Open issues**: 950 · **Contributors**: 113
+- **Stars**: 6,420 · **Forks**: 712 · **Open issues**: 950 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 5 | 7 | 1 | 1 | 15 |
-| last60d | 2026-09-15 | 0 | 9 | 9 | 1 | 1 | 19 |
-| 90d | 2026-08-16 | 0 | 10 | 12 | 1 | 1 | 21 |
-| last180d | 2026-05-18 | 0 | 24 | 13 | 1 | 2 | 42 |
-| 360d | 2025-11-19 | 0 | 36 | 13 | 4 | 2 | 63 |
-| last720d | 2024-11-24 | 0 | 44 | 13 | 23 | 5 | 110 |
+| 30d | 2026-10-16 | 0 | 4 | 7 | 1 | 1 | 15 |
+| last60d | 2026-09-16 | 0 | 8 | 9 | 1 | 1 | 19 |
+| 90d | 2026-08-17 | 0 | 10 | 12 | 1 | 1 | 21 |
+| last180d | 2026-05-19 | 0 | 22 | 13 | 1 | 2 | 42 |
+| 360d | 2025-11-20 | 0 | 36 | 13 | 4 | 2 | 63 |
+| last720d | 2024-11-25 | 0 | 44 | 13 | 23 | 5 | 110 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for csvkit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:28:50Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:25:58Z._
