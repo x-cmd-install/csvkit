@@ -141,20 +141,6 @@
     - tmancill@debian.org
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: csvkit
-  binnames:
-    - csvkit
-    - csvkit-doc
-    - python3-csvkit
-  visiblename: csvkit
-  version: 1.0.2
-  origversion: 1.0.2-1
-  status: outdated
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - ghisvail@gmail.com
 - repo: deepin_25
   subrepo: community
   srcname: csvkit
@@ -248,18 +234,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: python-csvkit
-  visiblename: python-csvkit
-  version: 1.0.5
-  origversion: 1.0.5-bp155.2.9
-  status: outdated
-  summary: A library of utilities for working with CSV
-  licenses:
-    - MIT
-  categories:
-    - Development/Languages/Python
 - repo: fedora_42
   subrepo: release
   srcname: python-csvkit
@@ -556,6 +530,18 @@
     - MIT
   categories:
     - Development/Languages/Python
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: python-csvkit
+  visiblename: python-csvkit
+  version: 1.0.5
+  origversion: 1.0.5-bp155.2.9
+  status: outdated
+  summary: A library of utilities for working with CSV
+  licenses:
+    - MIT
+  categories:
+    - Development/Languages/Python
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: python-csvkit
@@ -623,7 +609,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: csvkit
   binnames:
     - csvkit
@@ -639,7 +625,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: csvkit
   binnames:
     - csvkit
