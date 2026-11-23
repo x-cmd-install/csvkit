@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,419 · **Forks**: 722 · **Open issues**: 951 · **Contributors**: 113
+- **Stars**: 6,419 · **Forks**: 723 · **Open issues**: 952 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 288 · **Open PRs**: 19 · **Closed issues**: 918 · **Open issues**: 33 · **Commits**: 2120
+- **Releases**: 0 · **Merged PRs**: 288 · **Open PRs**: 21 · **Closed issues**: 918 · **Open issues**: 34 · **Commits**: 2120
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 4 | 13 | 1 | 2 | 14 |
-| last60d | 2026-09-23 | 0 | 6 | 15 | 1 | 2 | 16 |
-| 90d | 2026-08-24 | 0 | 10 | 17 | 1 | 2 | 21 |
-| last180d | 2026-05-26 | 0 | 22 | 19 | 1 | 3 | 39 |
-| 360d | 2025-11-27 | 0 | 35 | 19 | 4 | 3 | 62 |
-| last720d | 2024-12-02 | 0 | 44 | 19 | 23 | 6 | 110 |
+| 30d | 2026-10-24 | 0 | 4 | 15 | 1 | 3 | 11 |
+| last60d | 2026-09-24 | 0 | 6 | 17 | 1 | 3 | 16 |
+| 90d | 2026-08-25 | 0 | 10 | 19 | 1 | 3 | 20 |
+| last180d | 2026-05-27 | 0 | 22 | 21 | 1 | 4 | 39 |
+| 360d | 2025-11-28 | 0 | 35 | 21 | 4 | 4 | 62 |
+| last720d | 2024-12-03 | 0 | 44 | 21 | 23 | 7 | 110 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for csvkit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:19:21Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:46:05Z._
