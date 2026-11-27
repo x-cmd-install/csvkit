@@ -1,3 +1,19 @@
+- repo: raspbian_testing
+  subrepo: main
+  srcname: csvkit
+  binnames:
+    - csvkit
+    - csvkit-doc
+    - python3-csvkit
+  visiblename: csvkit
+  version: 2.2.0
+  origversion: 2.2.0-2
+  status: newest
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - tmancill@debian.org
+  categories:
+    - misc
 - repo: alt_p11
   srcname: csvkit
   binnames:
@@ -393,8 +409,8 @@
     - python
 - repo: macports
   srcname: python/py-csvkit
-  binname: py312-csvkit
-  visiblename: py312-csvkit
+  binname: py313-csvkit
+  visiblename: py313-csvkit
   version: 2.1.0
   origversion: null
   status: outdated
@@ -407,8 +423,8 @@
     - python
 - repo: macports
   srcname: python/py-csvkit
-  binname: py313-csvkit
-  visiblename: py313-csvkit
+  binname: py312-csvkit
+  visiblename: py312-csvkit
   version: 2.1.0
   origversion: null
   status: outdated
@@ -676,22 +692,6 @@
     - cheusov@netbsd.org
   categories:
     - textproc
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: csvkit
-  binnames:
-    - csvkit
-    - csvkit-doc
-    - python3-csvkit
-  visiblename: csvkit
-  version: 1.0.2
-  origversion: 1.0.2-1
-  status: outdated
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - ghisvail@gmail.com
-  categories:
-    - utils
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: csvkit
@@ -764,22 +764,6 @@
   maintainers:
     - debian-science-maintainers@lists.alioth.debian.org
     - ghisvail@gmail.com
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: csvkit
-  binnames:
-    - csvkit
-    - csvkit-doc
-    - python3-csvkit
-  visiblename: csvkit
-  version: 2.2.0
-  origversion: 2.2.0-2
-  status: newest
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - tmancill@debian.org
   categories:
     - misc
 - repo: spack
